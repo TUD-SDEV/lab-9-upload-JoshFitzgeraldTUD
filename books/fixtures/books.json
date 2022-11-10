@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "042a0f42-dc8c-4a80-871b-afc206f64b55",
+        "fields": {
+            "title": "Python Cookbook",
+            "author": "Frank West",
+            "price": "59.00",
+            "date_publication": "2022-11-08",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "4e343559-0ac6-4c96-85a2-7b801e506a6e",
+        "fields": {
+            "title": "Lightweight",
+            "author": "Tolken",
+            "price": "59.00",
+            "date_publication": "2022-11-08",
+            "cover": "covers/Lightweight.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "7dfd9d1b-944e-450a-be32-734e671e2858",
+        "fields": {
+            "title": "Django Unleashed",
+            "author": "JK Rowling",
+            "price": "59.00",
+            "date_publication": "2022-11-08",
+            "cover": "covers/DjangoUnleashed.jpg"
+        }
+    }
+]
